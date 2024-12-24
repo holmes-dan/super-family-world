@@ -1,20 +1,25 @@
 import React from "react";
 import logo from "../assets/superFamilyWorld.svg";
 import landingBackground from "../assets/landingBackground.jpg";
-import "../App.css";
 
 const LandingPage = () => {
   return (
     <div
-      className="Landing-page"
+      className="flex flex-col items-center justify-center h-screen"
       style={{
         backgroundImage: `url(${landingBackground})`,
         backgroundSize: "cover",
-        backgroundPosition: "center",
         height: "100vh",
       }}
     >
-      <img src={logo} className="App-logo" alt="logo" />
+      <img
+        src={logo}
+        className="h-16vmin top-20 pointer-events-none absolute"
+        alt="Super Family World"
+      />
+      {/* <button class="text-black font-bold py-2 px-4 rounded bottom-60 absolute"> */}
+      {/*   Holmes */}
+      {/* </button> */}
     </div>
   );
 };
