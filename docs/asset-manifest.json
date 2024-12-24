@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e850991.css",
+    "main.js": "/static/js/main.6e8cf68c.js",
+    "static/js/488.0a825e40.chunk.js": "/static/js/488.0a825e40.chunk.js",
+    "static/media/landingBackground.jpg": "/static/media/landingBackground.f74f7620bf6e6aff483f.jpg",
+    "static/media/superFamilyWorld.svg": "/static/media/superFamilyWorld.4713824e0037bf05752e2cc123b94dd0.svg",
+    "index.html": "/index.html",
+    "main.9e850991.css.map": "/static/css/main.9e850991.css.map",
+    "main.6e8cf68c.js.map": "/static/js/main.6e8cf68c.js.map",
+    "488.0a825e40.chunk.js.map": "/static/js/488.0a825e40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e850991.css",
+    "static/js/main.6e8cf68c.js"
+  ]
+}
